@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_r11s.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_r11s-user \
-    omni_r11s-userdebug \
-    omni_r11s-eng
+    twrp_r11s-user \
+    twrp_r11s-userdebug \
+    twrp_r11s-eng
