@@ -22,8 +22,8 @@ DEVICE SPECS:
 CPU	Octa-core (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510)
 Chipset	Exynos 2200 (4 nm)
 GPU	Xclipse 920
-Codename	r11s
+Codename r11s
 Memory	8GB RAM
-Android Android 13, upgradable to Android 14, One UI 6.1
+Android 13, upgradable to Android 14, One UI 6.1
 Storage	128/256GB
 ```
